@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 <br/>
- ## 🖼️ Preview
+
+## 🖼️ Preview
  
 <p align="center">
   <img width="600" height="500" alt="mock" src="https://github.com/user-attachments/assets/c4f07d36-97b3-4bc7-8547-d363db5cbe6b" />
@@ -50,6 +51,7 @@ Built mobile-first with Tailwind CSS and powered by React Context + Framer Motio
 - 🎬 Smooth animations with Framer Motion
 - 📱 Fully responsive (Mobile + Desktop)
 - ❌ Empty states & 404 page handling
+
 ---
 
 ## 🎬 Demo (User Flow)
@@ -63,11 +65,13 @@ Built mobile-first with Tailwind CSS and powered by React Context + Framer Motio
 ## 🏠 Home Page
 
  <img width="1920" height="3220" alt="home" src="https://github.com/user-attachments/assets/a9397e62-9d26-4379-9f58-fc99ff098661" />
+ 
 ---
 
 ## 🛍️ Products Page
 
  <img width="1920" height="3907" alt="product" src="https://github.com/user-attachments/assets/374c2509-2209-4cb8-bbe1-ef1031c1d421" />
+ 
  ---
  
 ## 🛒 Cart Page
