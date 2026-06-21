@@ -55,12 +55,14 @@ Built mobile-first with Tailwind CSS and powered by React Context + Framer Motio
 ---
 
 ## 🎬 Demo (User Flow)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9951878-49c6-43f1-a28b-731f41463394" width="850"/>
 </p>
 ---
 
 ## 📸 Full Page Screenshots
+
 
 ## 🏠 Home Page
 
@@ -77,6 +79,7 @@ Built mobile-first with Tailwind CSS and powered by React Context + Framer Motio
 ## 🛒 Cart Page
 
  <img width="1920" height="1399" alt="cart" src="https://github.com/user-attachments/assets/d87f0317-2ac4-4555-9156-46c572e004af" />
+
 
 ## 🛠️ Tech Stack
 
@@ -112,13 +115,14 @@ git clone https://github.com/Ayesha-Saddique9/Ecommerce-AyeshaMart
 bash
 cd Ecommerce-AyeshaMart
 
-*3*. Install dependencies**
+**3. Install dependencies**
 bash
 npm install
 
 **4. Start the development server**
 bash
 npm run dev
+
 
 ## 👩‍💻 Author
 
