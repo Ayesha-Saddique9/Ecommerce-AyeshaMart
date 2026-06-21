@@ -10,8 +10,8 @@
 
 <br />
 
+
 <p align="center">
-  <!-- Drag and drop your Laptop/Mobile Mockup Image here -->
   <img width="500" height="500" alt="mock" src="https://github.com/user-attachments/assets/c4f07d36-97b3-4bc7-8547-d363db5cbe6b" />
 </p>
 
@@ -19,7 +19,7 @@
 
 ## 📖 Project Overview
 
-AyeshaMart is a complete front-end E-Commerce application designed to replicate the premium feel of high-end fashion and tech brands (like Zara or Apple). Built to demonstrate advanced React concepts, the application handles complex JavaScript logic including dynamic routing, real-time search/filtering, and a fully functional shopping cart using the Context API.
+AyeshaMart is a sleek and modern eCommerce web application built with a focus on clean UI/UX, smooth animations, and real-world shopping experience. This project demonstrates product browsing, cart management, and responsive design using modern frontend technologies.
 
 ---
 
@@ -31,7 +31,7 @@ AyeshaMart is a complete front-end E-Commerce application designed to replicate 
 * Cart data persists seamlessly across all pages without prop-drilling.
 
 <!-- Drag and drop a GIF of you adding items to the cart here -->
-<p align="center">[Insert Cart GIF Here]</p>
+<p align="center"><img width="800" height="366" alt="ecommerce" src="https://github.com/user-attachments/assets/e3418b87-2ff7-4dc2-bd2a-d83fbf311667" /></p>
 
 ### 🔍 Dynamic Search, Sort & Filter
 * Users can search for products by name via the Navbar.
