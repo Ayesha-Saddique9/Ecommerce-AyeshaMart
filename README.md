@@ -1,18 +1,18 @@
 <h1 align="center">🛍️ AyeshaMart - Premium E-Commerce Platform</h1>
 
 <p align="center">
-  A fully responsive, modern e-commerce web application featuring a minimalist Black & White design, global state management, and real-time product filtering.
+    A fully responsive, modern e-commerce web application featuring a minimalist Black & White design, global state management, and real-time product filtering.
 </p>
 
 <p align="center">
-  <strong>🔗 <a href="ecom-ayeshamart.netlify.app" target="_blank">View Live Demo</a></strong>
+  <strong>🔗 <[a href="ecom-ayeshamart.netlify.app]" target="_blank">View Live Demo</a></strong>
 </p>
 
 <br />
 
 <p align="center">
   <!-- Drag and drop your Laptop/Mobile Mockup Image here -->
-  [Insert Hero Mockup Image Here]
+  [<img width="500" height="500" alt="mock" src="https://github.com/user-attachments/assets/c4f07d36-97b3-4bc7-8547-d363db5cbe6b" />]
 </p>
 
 ---
