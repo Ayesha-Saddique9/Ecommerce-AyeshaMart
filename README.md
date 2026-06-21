@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>🔗 <a href="[Insert Your Netlify Live Link Here]" target="_blank">View Live Demo</a></strong>
+  <strong>🔗 <a href="ecom-ayeshamart.netlify.app" target="_blank">View Live Demo</a></strong>
 </p>
 
 <br />
