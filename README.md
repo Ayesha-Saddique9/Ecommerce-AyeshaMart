@@ -9,7 +9,7 @@
   🚀 Live Demo
 </p>
 <p align="center">
-  <strong>🔗 <a href="ecom-ayeshamart.netlify.app" target="_blank">View Live Demo</a></strong>
+  <strong>🔗 <a href="https://ecom-ayeshamart.netlify.app" target="_blank">View Live Demo</a></strong>
 </p>
 
 <br />
@@ -56,11 +56,11 @@ AyeshaMart is a sleek and modern eCommerce web application built with a focus on
 
 ## 📸 Full Page Screenshots
 
-| Home Page | All Products Page | Cart Page | Checkout Form |
+| Home Page | All Products Page | Cart Page 
 | :---: | :---: | :---: | :---: |
-| [<img width="1920" height="3220" alt="home" src="https://github.com/user-attachments/assets/a9397e62-9d26-4379-9f58-fc99ff098661" />
+| [<img width="1920" height="3220" alt="home" src="https://github.com/user-attachments/assets/a9397e62-9d26-4379-9f58-fc99ff098661" />]
  | [<img width="1920" height="3907" alt="product" src="https://github.com/user-attachments/assets/374c2509-2209-4cb8-bbe1-ef1031c1d421" />
-] | [<img width="1920" height="1399" alt="cart" src="https://github.com/user-attachments/assets/d87f0317-2ac4-4555-9156-46c572e004af" />
+] | [<img width="1920" height="1399" alt="cart" src="https://github.com/user-attachments/assets/d87f0317-2ac4-4555-9156-46c572e004af" />]
 
 ---
 
