@@ -54,7 +54,7 @@ Built mobile-first with Tailwind CSS and powered by React Context + Framer Motio
 
 ## 🎬 Demo (User Flow)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3418b87-2ff7-4dc2-bd2a-d83fbf311667" width="850"/>
+  <img src="https://github.com/user-attachments/assets/a9951878-49c6-43f1-a28b-731f41463394" width="850"/>
 </p>
 ---
 
