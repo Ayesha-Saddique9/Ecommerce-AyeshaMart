@@ -15,6 +15,8 @@
 </p>
 
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
@@ -51,19 +53,25 @@ Built mobile-first with Tailwind CSS and powered by React Context + Framer Motio
 ---
 
 ## 🎬 Demo (User Flow)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e3418b87-2ff7-4dc2-bd2a-d83fbf311667" width="850"/>
+</p>
 ---
 
 ## 📸 Full Page Screenshots
 
----
 ## 🏠 Home Page
+
  <img width="1920" height="3220" alt="home" src="https://github.com/user-attachments/assets/a9397e62-9d26-4379-9f58-fc99ff098661" />
 ---
+
 ## 🛍️ Products Page
+
  <img width="1920" height="3907" alt="product" src="https://github.com/user-attachments/assets/374c2509-2209-4cb8-bbe1-ef1031c1d421" />
  ---
+ 
 ## 🛒 Cart Page
+
  <img width="1920" height="1399" alt="cart" src="https://github.com/user-attachments/assets/d87f0317-2ac4-4555-9156-46c572e004af" />
 
 ## 🛠️ Tech Stack
