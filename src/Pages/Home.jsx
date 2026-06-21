@@ -11,7 +11,7 @@ function Home() {
         <Link to='/products' className='bg-black hover:bg-gray-600 text-white px-8 py-3 mt-4 transition-all rounded-lg font-semibold cursor-pointer'>Shop Now</Link>
       </motion.div>
       <motion.div className='w-full md:w-1/2 flex justify-center md:p-4' initial={{opacity:0,x:50}} animate={{opacity:1,x:0}} transition={{duration:0.8, delay:0.3}}>
-       <img src="src\assets\lap.png" alt="" className='md:w-[99vw] object-contain w-full h-auto md:h-[99vh] drop-shadow-2xl md:mb-28 pr-12'/>
+       <img src="\lap.png" alt="" className='md:w-[99vw] object-contain w-full h-auto md:h-[99vh] drop-shadow-2xl md:mb-28 pr-12'/>
       </motion.div>
     </div>
   )

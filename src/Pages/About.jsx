@@ -14,7 +14,7 @@ function About() {
       </div>
       <div className='flex md:flex-row flex-col px-6 md:px-16 py-16 items center justify-center'>
         <motion.div className='w-full md:w-1/2' initial={{opacity:0,x:-50}} animate={{opacity:1,x:0}} transition={{duration:1,delay:0.2}}>
-         <img src="src\assets\a.jpg" alt="" className='rounded-lg shadow-lg'/>
+         <img src="/a.jpg" alt="" className='rounded-lg shadow-lg'/>
         </motion.div>
          <motion.div className='w-full md:w-1/2 md:pl-10' initial={{opacity:0,x:50}} animate={{opacity:1,x:0}} transition={{duration:0.8, delay:0.4}}>
          <h1 className='text-black text-2xl font-bold mb-4 mt-8 md:mt-0'>Our Mission</h1>

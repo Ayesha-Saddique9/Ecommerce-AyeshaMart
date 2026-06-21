@@ -10,7 +10,7 @@ function PageNotFound() {
         <p className='text-lg mb-2 pt-1'>Back</p>
         </Link>
     <div className='flex justify-center items-center max-h-[70vh] p-10 mt-14 mb-10'>
-      <img src="/src/assets/404Page.png" alt="" className='w-[60vw]'/>
+      <img src="/404Page.png" alt="" className='w-[60vw]'/>
     </div>
     </div>
   )
