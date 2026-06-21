@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <strong>🔗 <[a href="ecom-ayeshamart.netlify.app]" target="_blank">View Live Demo</a></strong>
+  <strong>🔗 <a href="ecom-ayeshamart.netlify.app" target="_blank">View Live Demo</a></strong>
 </p>
 
 <br />
 
 <p align="center">
   <!-- Drag and drop your Laptop/Mobile Mockup Image here -->
-  [<img width="500" height="500" alt="mock" src="https://github.com/user-attachments/assets/c4f07d36-97b3-4bc7-8547-d363db5cbe6b" />]
+  <img width="500" height="500" alt="mock" src="https://github.com/user-attachments/assets/c4f07d36-97b3-4bc7-8547-d363db5cbe6b" />
 </p>
 
 ---
