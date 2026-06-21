@@ -14,6 +14,7 @@
   <strong>🔗 <a href="https://ecom-ayeshamart.netlify.app" target="_blank">View Live Demo →</a></strong>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
@@ -24,10 +25,13 @@
 
 <br/>
 
+ ## 🖼️ Preview
+ 
 <p align="center">
-  <img width="900" alt="AyeshaMart Responsive Mockup" src="https://github.com/user-attachments/assets/c4f07d36-97b3-4bc7-8547-d363db5cbe6b" />
+  <img width="600" height="500" alt="mock" src="https://github.com/user-attachments/assets/c4f07d36-97b3-4bc7-8547-d363db5cbe6b" />
 </p>
-<p align="center"><sub>Responsive mockup showing Desktop + Mobile views</sub></p>
+
+
 
 ---
 
@@ -40,55 +44,28 @@ Built mobile-first with Tailwind CSS and powered by React Context + Framer Motio
 ---
 
 ## ✨ Key Features
-
-### 🛒 Global Shopping Cart
-Real-time cart powered by React Context API. No prop-drilling, instant sync across pages.
-- Add / Remove / Update quantity
-- Auto Grand Total calculation 
-- Persistent state across routes
-<p align="center">
-  <img width="800" alt="Cart in Action" src="https://github.com/user-attachments/assets/e3418b87-2ff7-4dc2-bd2a-d83fbf311667" />
-</p>
-
-### 🔍 Smart Search, Sort & Filter
-Lightning-fast product discovery with optimized JS.
-- Live search via Navbar 
-- Category filtering
-- Price sort: Low-to-High / High-to-Low using `.filter()` + `.sort()`
-
-### 📱 Mobile-First Responsive Design
-Tailwind CSS + custom hamburger menu + adaptive grids.
-- 2x2 category grid on mobile
-- Fluid layouts from 320px to 4K screens
-<p align="center">
-  <img width="900" alt="Homepage Full View" src="https://github.com/user-attachments/assets/a9951878-49c6-43f1-a28b-731f41463394" />
-</p>
-
-### 💳 Checkout + Empty States
-Split-screen checkout with form validation. Thoughtful UX for edge cases.
-- Required field validation
-- Custom 404 page
-- Empty cart & empty search states
-- Smooth transitions with Framer Motion
-
+ 🛒 Global Cart using Context API
+🔍 Search, Filter & Sort functionality
+📦 Dynamic Product Pages
+🎬 Smooth animations with Framer Motion
+📱 Fully responsive (Mobile + Desktop)
+❌ Empty states & 404 page handling
 ---
 
+## 🎬 Demo (User Flow)
+
+<p align="center"><img width="800" height="366" alt="ecommerce" src="https://github.com/user-attachments/assets/e3418b87-2ff7-4dc2-bd2a-d83fbf311667" /></p>
+---
 ## 📸 Full Page Screenshots
-
-<table>
-  <tr>
-    <td align="center"><b>Homepage</b></td>
-    <td align="center"><b>All Products</b></td>
-    <td align="center"><b>Cart Page</b></td>
-  </tr>
-  <tr>
-    <td><img width="400" alt="Home Page" src="https://github.com/user-attachments/assets/a9397e62-9d26-4379-9f58-fc99ff098661" /></td>
-    <td><img width="400" alt="Products Page" src="https://github.com/user-attachments/assets/374c2509-2209-4cb8-bbe1-ef1031c1d421" /></td>
-    <td><img width="400" alt="Cart Page" src="https://github.com/user-attachments/assets/d87f0317-2ac4-4555-9156-46c572e004af" /></td>
-  </tr>
-</table>
-
 ---
+## 🏠 Home Page
+ [<img width="1920" height="3220" alt="home" src="https://github.com/user-attachments/assets/a9397e62-9d26-4379-9f58-fc99ff098661" />]
+---
+## 🛍️ Products Page
+ [<img width="1920" height="3907" alt="product" src="https://github.com/user-attachments/assets/374c2509-2209-4cb8-bbe1-ef1031c1d421" />
+ ---
+## 🛒 Cart Page
+ [<img width="1920" height="1399" alt="cart" src="https://github.com/user-attachments/assets/d87f0317-2ac4-4555-9156-46c572e004af" />]
 
 ## 🛠️ Tech Stack
 
@@ -119,3 +96,30 @@ Building this from scratch was a massive step in my journey to becoming a Full-S
 **1. Clone the repository**
 ```bash
 git clone https://github.com/Ayesha-Saddique9/Ecommerce-AyeshaMart
+```
+**2.Navigate into the directory**
+bash
+cd Ecommerce-AyeshaMart
+
+*3*. Install dependencies**
+bash
+npm install
+
+**4. Start the development server**
+bash
+npm run dev
+
+## 👩‍💻 Author
+
+**Ayesha Saddique** 
+Frontend Web Developer
+
+🔗 GitHub: https://github.com/Ayesha-Saddique9
+
+💼 LinkedIn: https://linkedin.com/in/ayesha-saddique9
+
+📧 Email: ayeshasaddique70@gmail.com
+
+⭐ If you found this project useful, consider giving it a star!
+
+"Building logic, solving problems, and designing premium user experiences."
