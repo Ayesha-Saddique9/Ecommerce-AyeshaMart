@@ -22,9 +22,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
-
 <br/>
-
  ## 🖼️ Preview
  
 <p align="center">
@@ -44,28 +42,29 @@ Built mobile-first with Tailwind CSS and powered by React Context + Framer Motio
 ---
 
 ## ✨ Key Features
- 🛒 Global Cart using Context API
-🔍 Search, Filter & Sort functionality
-📦 Dynamic Product Pages
-🎬 Smooth animations with Framer Motion
-📱 Fully responsive (Mobile + Desktop)
-❌ Empty states & 404 page handling
+-  🛒 Global Cart using Context API
+- 🔍 Search, Filter & Sort functionality
+- 📦 Dynamic Product Pages
+- 🎬 Smooth animations with Framer Motion
+- 📱 Fully responsive (Mobile + Desktop)
+- ❌ Empty states & 404 page handling
 ---
 
 ## 🎬 Demo (User Flow)
 
-<p align="center"><img width="800" height="366" alt="ecommerce" src="https://github.com/user-attachments/assets/e3418b87-2ff7-4dc2-bd2a-d83fbf311667" /></p>
 ---
+
 ## 📸 Full Page Screenshots
+
 ---
 ## 🏠 Home Page
- [<img width="1920" height="3220" alt="home" src="https://github.com/user-attachments/assets/a9397e62-9d26-4379-9f58-fc99ff098661" />]
+ <img width="1920" height="3220" alt="home" src="https://github.com/user-attachments/assets/a9397e62-9d26-4379-9f58-fc99ff098661" />
 ---
 ## 🛍️ Products Page
- [<img width="1920" height="3907" alt="product" src="https://github.com/user-attachments/assets/374c2509-2209-4cb8-bbe1-ef1031c1d421" />
+ <img width="1920" height="3907" alt="product" src="https://github.com/user-attachments/assets/374c2509-2209-4cb8-bbe1-ef1031c1d421" />
  ---
 ## 🛒 Cart Page
- [<img width="1920" height="1399" alt="cart" src="https://github.com/user-attachments/assets/d87f0317-2ac4-4555-9156-46c572e004af" />]
+ <img width="1920" height="1399" alt="cart" src="https://github.com/user-attachments/assets/d87f0317-2ac4-4555-9156-46c572e004af" />
 
 ## 🛠️ Tech Stack
 
